@@ -30,8 +30,8 @@
 # PROGRAM :
 # CLIENT:
 ```
-# Developed by : NAGINENI ROHITH
-# Register Number : 212222040105
+# Developed by : P SYAM TEJ
+# Register Number : 212221240056
 import socket
 from pythonping import ping
 s=socket.socket()
